@@ -5,7 +5,7 @@
 
 #list speed test
 import timeit
-
+#list speed is slower since its divided 
 print(timeit.timeit(stmt='["red", "blue", "green", 5, 7, 12, 18, "dude"]', nummber=10000000))
 
 
