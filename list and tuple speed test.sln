@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "list and tuple speed test", "list and tuple speed test\list and tuple speed test.pyproj", "{AC2205BA-2497-48D3-9478-2C03B4EFD13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2205BA-2497-48D3-9478-2C03B4EFD13C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2205BA-2497-48D3-9478-2C03B4EFD13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF6174F-D25F-4BFA-BE9B-4F14E47F53A2}
+	EndGlobalSection
+EndGlobal
